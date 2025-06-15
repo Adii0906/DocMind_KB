@@ -1,7 +1,7 @@
 [project]
-name = "mind-pro"
+name = "DocMind_KB"
 version = "0.1.0"
-description = "Add your description here"
+description = "A **100% local knowledge base** that lets you upload CSV or PDF files and ask questions in natural language. Your documents are processed into searchable text chunks, stored in PostgreSQL, and indexed by MindsDB for semantic search. All AI models run locally—no API keys, no cloud"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
