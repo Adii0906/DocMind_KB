@@ -5,7 +5,7 @@
 A **100% local knowledge base** that lets you upload CSV or PDF files and ask questions in natural language. Your documents are processed into searchable text chunks, stored in PostgreSQL, and indexed by MindsDB for semantic search. All AI models run locally—no API keys, no cloud, just fast, private answers on your machine.
 
 ## Demo 
-https://github.com/user-attachments/assets/7ecb07bc-b20e-4c90-8374-3841af7f2154
+https://github.com/user-attachments/assets/d3af4fd6-63b3-4b18-b8bc-5db5661f74ac
 
 
 ## 🚀 Quick Start
